@@ -11,7 +11,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 * [Programming with Seeeduino](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#programming-with-seeeduino)
 * [Quick Start](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start)
   * [Open the Blink Example](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start)
-  * [Upload the Program](
+  * [Upload the Program](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#open-the-blink-example)
 
 ## Content of your Kit:
 
