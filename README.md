@@ -36,10 +36,10 @@ Monitoring of water quality and quantity is essential in efficient management of
 * We are going to develop very simple program of blinking light
 * Open the LED blink example sketch: File>Examples>01.Basics>Blink.
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Getting_Started1.png)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started1.png)
 
 ### Upload the Program
 * Now, simply click the "Upload" button in the Arduino IDE environment. Wait for few seconds - you should see the RX and TX leds on the board flashing ( it means the code is uploading on the microcontroller). If the upload is successul, the message "Done uploading" will appear in the status bar.
 
-![](
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started2.png)
 
