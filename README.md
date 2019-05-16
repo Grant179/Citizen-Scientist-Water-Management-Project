@@ -35,4 +35,5 @@ Monitoring of water quality and quantity is essential in efficient management of
 ### Open the Blink Example
 * We are going to develop very simple program of blinking light
 * Open the LED blink example sketch: File>Examples>01.Basics>Blink.
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Getting_Started1.png)
 
