@@ -18,3 +18,11 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Breadboard : [Documentation](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard)
 * Wires
 * USB Cable
+
+## Programming with Seeeduino
+* Get and install the Arduino IDE:  https://www.arduino.cc/en/main/software
+* Launch the Arduino IDE
+* Under File -> Preferences -> Additional Boards Manager URLs -> paste this link -> https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/package_seeeduino_boards_index.json and validate
+* Add the Seeeduino LoRaWAN to Arduino IDE: Tools -> Board -> Boards manager -> search for Seeed SAMD Boards -> install the latest version.
+* Select the board: Tools -> Board -> Seeeduino LoRaWAN
+* Select the port: Tools -> Port -> Click on the port that Seeeduino LoRaWAN is attached.
