@@ -12,6 +12,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 * [Quick Start](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start)
   * [Open the Blink Example](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start)
   * [Upload the Program](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#open-the-blink-example)
+* [Quick start with Waterproof Ultrasonic Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start-with-waterproof-ultrasonic-sensor)
 
 ## Content of your Kit:
 
