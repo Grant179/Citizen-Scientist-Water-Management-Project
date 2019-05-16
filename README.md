@@ -68,6 +68,8 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Compare both reading and find the difference between them.
 * The difference between them is the water loss in cm.
 
+* Keep the water in the container for next Experiment
+
 ## Quick start with Waterproof Digital Temperature Sensor
 * Plug Digital Temperature Sensor to your Seeeduino board following this tutorial : [Understanding Temperature Sensor](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
 * Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Measuring%20Temperature%20of%20Water) and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
