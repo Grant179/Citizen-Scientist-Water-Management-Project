@@ -48,5 +48,5 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ## Quick start with Waterproof Ultrasonic Sensor
 * Plug ultrasonic sensor to your Seeeduino board by following this tutorial [Understand Turidity Sensor](https://wiki.dfrobot.com/Weather_-_proof_Ultrasonic_Sensor_with_Separate_Probe_SKU___SEN0208)
-* Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Water%20level%20estimation%20(Ultrasonic%20sensor) and paste into your Arduino IDE and click [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
+* Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Water%20level%20estimation%20(Ultrasonic%20sensor)) and paste into your Arduino IDE and click [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
 
