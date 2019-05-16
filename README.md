@@ -29,17 +29,17 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Select the board: Tools -> Board -> Seeeduino LoRaWAN
 * Select the port: Tools -> Port -> Click on the port that Seeeduino LoRaWAN is attached.
 
-## Quick Start
+### Quick Start
 * Launch the Arduino IDE on your computer
 * Connect the Seeeduino board to your computer using the USB cable. The green power LED (labeled PWR) should go on. (When Seeeduino works independently, you can select USB or power adapter to power for Seeeduino.)
 * Select the board and port as descibed above in Programming with Seeeduino Section.
-### Open the Blink Example
+#### Open the Blink Example
 * We are going to develop very simple program of blinking light
 * Open the LED blink example sketch: File>Examples>01.Basics>Blink.
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started1.png)
 
-### Upload the Program
+#### Upload the Program
 * Now, simply click the "Upload" button in the Arduino IDE environment. Wait for few seconds - you should see the RX and TX leds on the board flashing ( it means the code is uploading on the microcontroller). If the upload is successul, the message "Done uploading" will appear in the status bar.
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started2.png)
