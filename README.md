@@ -54,7 +54,10 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Water%20level%20estimation%20(Ultrasonic%20sensor)) and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
 * Open the serial Monitor on your Adruino IDE
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started3.png)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started4.png)
+
+* Move your sensor up and down your table and see variation in the distance on your serial Monitor.
+
 
 ## Quick start with Waterproof Digital Temperature Sensor
 * Plug Digital Temperature Sensor to your Seeeduino board following this tutorial : [Understanding Temperature Sensor](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
