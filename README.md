@@ -67,7 +67,6 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Note down thw stable reading in your worksheet.
 * Compare both reading and find the difference between them.
 * The difference between them is the water loss in cm.
-
 * Keep the water in the container for next Experiment
 
 ## Quick start with Waterproof Digital Temperature Sensor
