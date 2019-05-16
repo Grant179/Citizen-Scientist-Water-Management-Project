@@ -16,6 +16,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 * [Quick start with Waterproof Digital Temperature Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-waterproof-digital-temperature-sensor)
 * [Quick start with Turbidity Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-turbidity-sensor)
 
+
 ## Content of your Kit:
 
 * Seeeduino LoRaWAN : [Documentation](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/)
@@ -58,6 +59,14 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 * Move your sensor up and down your table and see variation in the distance on your serial Monitor.
 
+### Experiment with water (Find the level of water in the container)
+* Adjust or hold your Ultrasonic Sensor at any position looking down on your desk.
+* Find the Container and fill it with water, see the output in cm's on your serial monitor.
+* Note down the stable reading in your worksheet.
+* Throw half of the water and test it again, make sure Ultrasonic sensor hasn't moved since last test.
+* Note down thw stable reading in your worksheet.
+* Compare both reading and find the difference between them.
+* The difference between them is the water loss in cm.
 
 ## Quick start with Waterproof Digital Temperature Sensor
 * Plug Digital Temperature Sensor to your Seeeduino board following this tutorial : [Understanding Temperature Sensor](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
