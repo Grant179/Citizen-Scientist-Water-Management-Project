@@ -28,4 +28,8 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Select the board: Tools -> Board -> Seeeduino LoRaWAN
 * Select the port: Tools -> Port -> Click on the port that Seeeduino LoRaWAN is attached.
 
-
+## Quick Start
+* Launch the Arduino IDE on your computer
+* Connect the Seeeduino board to your computer using the USB cable. The green power LED (labeled PWR) should go on. (When Seeeduino works independently, you can select USB or power adapter to power for Seeeduino.)
+* Select the board and port as descibed above in Programming with Seeeduino Section.
+* We are going to develop very simple program of blinking light
