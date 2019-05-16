@@ -48,6 +48,12 @@ Monitoring of water quality and quantity is essential in efficient management of
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started2.png)
 
 ## Quick start with Waterproof Ultrasonic Sensor
-* Plug ultrasonic sensor to your Seeeduino board by following this tutorial [Understand Turidity Sensor](https://wiki.dfrobot.com/Weather_-_proof_Ultrasonic_Sensor_with_Separate_Probe_SKU___SEN0208)
+* Plug ultrasonic sensor to your Seeeduino board by following this tutorial [Understanding Ultrasonic Sensor](https://wiki.dfrobot.com/Weather_-_proof_Ultrasonic_Sensor_with_Separate_Probe_SKU___SEN0208)
 * Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Water%20level%20estimation%20(Ultrasonic%20sensor)) and paste into your Arduino IDE and click [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
 
+## Quick start with Waterproof Digital Temperature Sensor
+* Plug Digital Temperature Sensor to your Seeeduino board following this tutorial [Understanding Temperature Sensor for Water](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
+* Copy the [Sample Code]()and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
+## Quick start with Turbidity Sensor
+* Plug ultrasonic sensor to your Seeeduino board by following this tutorial [Understanding Turidity Sensor](https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189)
+* Copy the [Sample Code]()and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
