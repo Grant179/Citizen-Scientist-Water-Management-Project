@@ -32,4 +32,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Launch the Arduino IDE on your computer
 * Connect the Seeeduino board to your computer using the USB cable. The green power LED (labeled PWR) should go on. (When Seeeduino works independently, you can select USB or power adapter to power for Seeeduino.)
 * Select the board and port as descibed above in Programming with Seeeduino Section.
+### Open the Blink Example
 * We are going to develop very simple program of blinking light
+* Open the LED blink example sketch: File>Examples>01.Basics>Blink.
+
