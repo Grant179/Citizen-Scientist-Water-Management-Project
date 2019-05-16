@@ -14,3 +14,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Seeeduino LoRaWAN : [Documentation](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/)
 * Turbidity Sensor : [Documentation](https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189)
 * Waterproof Ultrasonic Sensor : [Documentation](https://wiki.dfrobot.com/Weather_-_proof_Ultrasonic_Sensor_with_Separate_Probe_SKU___SEN0208)
+* Waterproof Digital Temperature Sensor : [Documentation](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
+* Breadboard : [Documentation](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard)
+* Wires
+* USB Cable
