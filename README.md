@@ -53,7 +53,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ## Quick start with Waterproof Digital Temperature Sensor
 * Plug Digital Temperature Sensor to your Seeeduino board following this tutorial [Understanding Temperature Sensor for Water](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
-* Copy the [Sample Code]()and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
+* Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Measuring%20Temperature%20of%20Water)and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
 ## Quick start with Turbidity Sensor
 * Plug ultrasonic sensor to your Seeeduino board by following this tutorial [Understanding Turidity Sensor](https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189)
 * Copy the [Sample Code]()and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
