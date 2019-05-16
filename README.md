@@ -63,11 +63,27 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Adjust or hold your Ultrasonic Sensor at any position looking down on your desk.
 * Find the Container and fill it with water, see the output in cm's on your serial monitor.
 * Note down the stable reading in your worksheet.
-* Throw half of the water and test it again, make sure Ultrasonic sensor hasn't moved since last test.
-* Note down thw stable reading in your worksheet.
+* Throw half of the water and test it again, making sure Ultrasonic sensor hasn't moved since last test.
+* Note down the stable reading in your worksheet.
 * Compare both reading and find the difference between them.
 * The difference between them is the water loss in cm.
 * Keep the water in the container for next Experiment
+
+### Try Different Application for Ultrasonic Sensor
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started5.png)
+
+### Applications
+* Water tank level measurement
+* Fuel tank level measurement
+* Food tank level measurement
+* Seal water level measurement
+* Powder and Solid level application
+* Sewage and industry wastewater treatment
+* Oil and Fuel level measurement
+* Hazardous zone level measurement
+* Oil tanker, small fuel tank level measurement
+* Other distance and level application
 
 ## Quick start with Waterproof Digital Temperature Sensor
 * Plug Digital Temperature Sensor to your Seeeduino board following this tutorial : [Understanding Temperature Sensor](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
