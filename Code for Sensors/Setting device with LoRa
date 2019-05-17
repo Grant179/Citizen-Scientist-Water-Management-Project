@@ -1,0 +1,11 @@
+// Reminder any thing starts with "//" is the comment and will not execute during code run, 
+// if you wish you can delete me others like me!!!!!.
+
+// void setId(char *DevAddr, char *DevEUI, char *AppEUI);
+// Navigate to The Things Network, Find your device *DevEUI and *AppEUI and paste into line below.
+
+lora.setId(NULL, "*DevEUI", "*AppEUI");
+
+// setKey(char *NwkSKey, char *AppSKey, char *AppKey);
+// Replace your Device's AppKey below in the code line.
+lora.setKey(NULL, NULL, "*AppKey");
