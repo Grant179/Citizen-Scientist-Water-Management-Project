@@ -126,4 +126,6 @@ Monitoring of water quality and quantity is essential in efficient management of
  
  ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started10.png)
  
+ ### Adapt & Run Code 
+ 
  
