@@ -108,3 +108,22 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Compare both recordings and explain those readings to your teacher.
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started8.jpg)
+
+## Connecting your sensors with Internet of things and controll your sensors remotely
+* Making your sensors to speak with internet, and by the end of this tutorial you should be able to visualize data at your home for the sensor plugged at your school.
+* First create an account, then create an application and then register your device within this application
+ * Go to [click me Student](https://www.thethingsnetwork.org/) and register an account.
+ * Go to [Click me again Student](https://console.thethingsnetwork.org/) and select “Application”.
+ * On the next screen click “+add application”
+ * In the next screen pick a meaning full name for your application in lowercase letters for Application ID and write something in description. Under Handler Registration pick an option available. See image below
+ 
+ ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started9.png)
+ 
+ * On the next screen click “register device”
+ * For “Device ID” pick a meaningful name in lowercase letters
+ * On the left side of the DevEUI field click on the arrow icons. The icon changes into a pen and this will cause the ID to be generated. This is necessary since the API doesn’t offer a way to read out the devices MAC address. See image below
+ * In App EUI pick the ID of the application we created earlier
+ 
+ ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started10.png)
+ 
+ 
