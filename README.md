@@ -102,5 +102,9 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ### Experiment :- Find the Turbidity of Water
 * Turbidity is a measure of the degree to which the water loses its transparency due to the presence of suspended particulates. The more total suspended solids in the water, the murkier it seems and the higher the turbidiy.
+* Take 2 * Cups, fill one cup with clean water and the other cup with dirty water (to make water dity, you can choose to use soil in the water).
+* Read Documentation of the sensor, and dipp your sensor in the clean water, Record stable reading in your notebook.
+* Now dipp the sensor in dirty water, Record stable reading in your notebook.
+* Compare both recordings and explain those readings to your teacher.
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started8.jpg)
