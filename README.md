@@ -15,7 +15,8 @@ Monitoring of water quality and quantity is essential in efficient management of
 * [Quick start with Waterproof Ultrasonic Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start-with-waterproof-ultrasonic-sensor)
 * [Quick start with Waterproof Digital Temperature Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-waterproof-digital-temperature-sensor)
 * [Quick start with Turbidity Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-turbidity-sensor)
-
+* [Connecting your sensors with Internet of things and controll your sensors remotely](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#connecting-your-sensors-with-internet-of-things-and-controll-your-sensors-remotely)
+ *[Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#adapt--run-code)
 
 ## Content of your Kit:
 
@@ -127,5 +128,12 @@ Monitoring of water quality and quantity is essential in efficient management of
  ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started10.png)
  
  ### Adapt & Run Code 
+ 
+ * Now Make sure your Seeeduino LoRaWAN is connected with your computer.
+ * Copy and paste this [Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Setting%20device%20with%20LoRa) on your Arduino IDE and follow all of the comments and make adjustments to code according to your device configuration on The Things Network platform.
+ * After running your code, you should see something like this in your serial monitor.
+ 
+ ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started11.PNG)
+ 
  
  
