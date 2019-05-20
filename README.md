@@ -16,7 +16,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 * [Quick start with Waterproof Digital Temperature Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-waterproof-digital-temperature-sensor)
 * [Quick start with Turbidity Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-turbidity-sensor)
 * [Connecting your sensors with Internet of things and controll your sensors remotely](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#connecting-your-sensors-with-internet-of-things-and-controll-your-sensors-remotely)
- *[Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#adapt--run-code)
+ * [Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#adapt--run-code)
 
 ## Content of your Kit:
 
@@ -151,4 +151,19 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Select Add Integration.
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started13.PNG)
+
+### Sign up with My Devices
+* To start using dashboard, you have to make an account on myDevices.
+* To make an account, please click this [link](https://accounts.mydevices.com/auth/realms/cayenne/protocol/openid-connect/auth?response_type=code&scope=email+profile&client_id=cayenne-web-app&state=UYSHaX9t9bmcWWSkiXvvsdtfiN4IhWCfORtEGJfq&redirect_uri=https%3A%2F%2Fcayenne.mydevices.com%2Fauth%2Fcallback)
+* Fill out the details and sign in
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started14.PNG)
+
+* Log-in and click on LoRa
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started15.png)
+
+* Select The Things Network at the bottom of the left menu bar, click on Cayenne LPP and fill in your DevEUI of your device (which you can find in the [Console](https://console.thethingsnetwork.org/applications)
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started16.png)
 
