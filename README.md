@@ -48,12 +48,12 @@ Monitoring of water quality and quantity is essential in efficient management of
 * We are going to develop very simple program of blinking light
 * Open the LED blink example sketch: File>Examples>01.Basics>Blink.
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started1.png)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/1.PNG)
 
 #### Upload the Program
 * Now, simply click the "Upload" button in the Arduino IDE environment. Wait for few seconds - you should see the RX and TX leds on the board flashing ( it means the code is uploading on the microcontroller). If the upload is successul, the message "Done uploading" will appear in the status bar.
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started2.png)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/2.PNG)
 
 ## Quick start with Waterproof Ultrasonic Sensor
 * Plug ultrasonic sensor to your Seeeduino board by following this tutorial : [Understanding Ultrasonic Sensor](https://wiki.dfrobot.com/Weather_-_proof_Ultrasonic_Sensor_with_Separate_Probe_SKU___SEN0208)
@@ -112,5 +112,5 @@ Reference:https://www.alibaba.com/product-detail/digital-ultrasonic-level-meter-
 * Now dipp the sensor in dirty water, Record stable reading in your notebook.
 * Compare both recordings and explain those readings to your teacher.
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started8.jpg)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/3.jpg)
 
