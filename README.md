@@ -135,5 +135,6 @@ Monitoring of water quality and quantity is essential in efficient management of
  
  ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started11.PNG)
  
+ * Now to collect data, navigate to The Things Network website, select application -> click on the Application that you have created -> navigate to Data option and click -> under Data you would see that you are receiving data from your Seeeduino Microcontroller.
  
- 
+## Visualize your Data on Dashboard using Cayenne LPP
