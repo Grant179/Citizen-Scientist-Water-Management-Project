@@ -65,14 +65,14 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Move your sensor up and down your table and see variation in the distance on your serial Monitor.
 
 ### Experiment :- Find the level of water in the container
-* Adjust or hold your Ultrasonic Sensor at any position looking down on your desk.
-* Find the Container and fill it with water, see the output in cm's on your serial monitor.
-* Note down the stable reading in your worksheet.
-* Throw half of the water and test it again, making sure Ultrasonic sensor hasn't moved since last test.
-* Note down the stable reading in your worksheet.
-* Compare both reading and find the difference between them.
-* The difference between them is the water loss in cm.
-* Keep the water in the container for next Experiment
+1. Adjust or hold your Ultrasonic Sensor at any position looking down on your desk.
+2. Find the Container and fill it with water, see the output in cm's on your serial monitor.
+3. Note down the stable reading in your worksheet.
+4. Throw half of the water and test it again, making sure Ultrasonic sensor hasn't moved since last test.
+5. Note down the stable reading in your worksheet.
+6. Compare both reading and find the difference between them.
+7. The difference between them is the water loss in cm.
+8. Keep the water in the container for next Experiment
 
 ### Try Different Application for Ultrasonic Sensor
 
