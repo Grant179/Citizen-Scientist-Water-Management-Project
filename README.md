@@ -13,14 +13,19 @@ Monitoring of water quality and quantity is essential in efficient management of
   * [Open the Blink Example](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start)
   * [Upload the Program](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#open-the-blink-example)
 * [Quick start with Waterproof Ultrasonic Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start-with-waterproof-ultrasonic-sensor)
+ * [Experiment :- Find the level of water in the container](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-level-of-water-in-the-container)
+ * [Try Different Application for Ultrasonic Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#try-different-application-for-ultrasonic-sensor)
+ * [Applications](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#applications)
 * [Quick start with Waterproof Digital Temperature Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-waterproof-digital-temperature-sensor)
+ * [Experiment :- Find the Temperature of water in the container/Cup](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-temperature-of-water-in-the-containercup)
 * [Quick start with Turbidity Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-turbidity-sensor)
+ * [Experiment :- Find the Turbidity of Water](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-turbidity-of-water)
 * [Connecting your sensors with Internet of things and controll your sensors remotely](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#connecting-your-sensors-with-internet-of-things-and-controll-your-sensors-remotely)
  * [Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#adapt--run-code)
 * [Visualize your Data on Dashboard using Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#visualize-your-data-on-dashboard-using-cayenne-lpp)
  * [Sign up with My Devices](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#sign-up-with-my-devices)
  * [Modification of Setting device with LoRa code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#modification-of-setting-device-with-lora-code)
- * Test your ultrasonic sensor on Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#test-your-ultrasonic-sensor-on-cayenne-lpp)
+ * [Test your ultrasonic sensor on Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#test-your-ultrasonic-sensor-on-cayenne-lpp)
 
 ## Content of your Kit:
 
@@ -107,7 +112,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ### Experiment :- Find the Turbidity of Water
 * Turbidity is a measure of the degree to which the water loses its transparency due to the presence of suspended particulates. The more total suspended solids in the water, the murkier it seems and the higher the turbidiy.
-* Take 2 * Cups, fill one cup with clean water and the other cup with dirty water (to make water dity, you can choose to use soil in the water).
+* Take 2 * Cups, fill one cup with clean water and the other cup with dirty water (to make water dity, you can choose to mix soil in the water).
 * Read Documentation of the sensor, and dipp your sensor in the clean water, Record stable reading in your notebook.
 * Now dipp the sensor in dirty water, Record stable reading in your notebook.
 * Compare both recordings and explain those readings to your teacher.
@@ -116,9 +121,9 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ## Connecting your sensors with Internet of things and controll your sensors remotely
 * Making your sensors to speak with internet, and by the end of this tutorial you should be able to visualize data at your home for the sensor plugged at your school.
-* First create an account, then create an application and then register your device within this application
- * Go to [click me Student](https://www.thethingsnetwork.org/) and register an account.
- * Go to [Click me again Student](https://console.thethingsnetwork.org/) and select “Application”.
+* First create an account, then create an application and then register your device.
+ * Go to [The Things Network](https://www.thethingsnetwork.org/) and register an account.
+ * Go to [Console](https://console.thethingsnetwork.org/) and select “Application”.
  * On the next screen click “+add application”
  * In the next screen pick a meaning full name for your application in lowercase letters for Application ID and write something in description. Under Handler Registration pick an option available. See image below
  
@@ -147,7 +152,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 * Now we would like to create a User friendly interface, which can receive data and display that data nicely on dashboard.
 * This dashboard will be receiving real time data, as longer your sensor is connected with LoRaWAN internet protocol.
-* On you The Things Network Console, navigate to Integrations -> add integration -> find myDevices and select this option.
+* On The Things Network Console, navigate to Integrations -> add integration -> find myDevices and select this option.
 * After selecting myDevices, you need to write process ID for your device, it can be any unique text, see below in image.
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started12.PNG)
@@ -167,7 +172,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started15.png)
 
-* Select The Things Network at the bottom of the left menu bar, click on Cayenne LPP and fill in your DevEUI of your device (which you can find in the [Console](https://console.thethingsnetwork.org/applications)
+* Select The Things Network at the bottom of the left menu bar, click on Cayenne LPP and fill in your DevEUI of your device, which you can find in the [Console](https://console.thethingsnetwork.org/applications)
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started16.png)
 
