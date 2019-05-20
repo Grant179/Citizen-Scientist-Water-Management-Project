@@ -56,7 +56,9 @@ Monitoring of water quality and quantity is essential in efficient management of
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/4.png)
 
 #### Result
-* A few seconds after the upload finishes, you should see the pin 13 (L) LED on the board start to blink (in orange). if it does, congratulations! You've gotten Seeeduino up-and-running.
+* A few seconds after the upload finishes, you should see the pin 13 (L) LED on the board start to blink (in Yellow). if it does, congratulations! You've gotten Seeeduino up-and-running.
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/5.PNG)
 
 ## Quick start with Waterproof Ultrasonic Sensor
 * Plug ultrasonic sensor to your Seeeduino board by following this tutorial : [Understanding Ultrasonic Sensor](https://wiki.dfrobot.com/Weather_-_proof_Ultrasonic_Sensor_with_Separate_Probe_SKU___SEN0208)
