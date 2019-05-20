@@ -1,4 +1,14 @@
 
+
+# Table of Content
+* [Connecting your sensors with Internet of things and controll your sensors remotely](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Internet_Of_Things.md#connecting-your-sensors-with-internet-of-things-and-controll-your-sensors-remotely)
+  * [Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Internet_Of_Things.md#adapt--run-code)
+* [Visualize your Data on Dashboard using Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Internet_Of_Things.md#visualize-your-data-on-dashboard-using-cayenne-lpp)
+  * [Sign up with My Devices](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Internet_Of_Things.md#sign-up-with-my-devices)
+  * [Modification of Setting device with LoRa code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Internet_Of_Things.md#modification-of-setting-device-with-lora-code)
+  * [Test your ultrasonic sensor on Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Internet_Of_Things.md#test-your-ultrasonic-sensor-on-cayenne-lpp)
+
+
 ## Connecting your sensors with Internet of things and controll your sensors remotely
 * Making your sensors to speak with internet, and by the end of this tutorial you should be able to visualize data at your home for the sensor plugged at your school.
 * First create an account, then create an application and then register your device.
