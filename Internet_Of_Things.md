@@ -26,7 +26,7 @@
  * In App EUI pick the ID of the application we created earlier
  
  ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started10.png)
- 
+ [Reference: If you require more information please have a look at this blog](https://blog.squix.org/2017/07/seeeduino-lora-gps-getting-started-with-lorawan-and-ttn.html)
 ### Adapt & Run Code 
  
  * Now Make sure your Seeeduino LoRaWAN is connected with your computer.
