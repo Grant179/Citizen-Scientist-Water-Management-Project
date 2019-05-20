@@ -8,11 +8,12 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 # Table of Content
 * [Content of your Kit](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#content-of-your-kit)
+* [Know Your Hardware]()
 * [Programming with Seeeduino](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#programming-with-seeeduino)
 * [Quick Start](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start)
   * [Open the Blink Example](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start)
   * [Upload the Program](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#open-the-blink-example)
-
+  * [Result](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Basic_Introduction_to_software_and_hardware.md#result)
 
 ## Content of your Kit:
 
@@ -24,6 +25,31 @@ Monitoring of water quality and quantity is essential in efficient management of
 * Wires
 * USB Cable
 
+
+## Know Your Hardware
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/6.PNG)
+
+* 1. Micro USB - Programming and supply power to the board
+* 2. Grove connectors
+3. JST2.0 Lipo battery input (3.7V) and charge status led
+4. DFU Button - Firmware mode button
+5. Reset Button
+6. Arduino Pinout
+7. ICSP pins
+8. Firmware mode led
+9. Wire antenna
+A. uFL antenna
+B. RF module - RHF76-052AM
+C. ARM Cortex M0 processor - ATSAMD21G18
+D. LEDs
+
+* RX/TX - blink when data on UART(from/to USB)
+* L - an led connect to D13
+* PWR - power
+
+
+* To get More informatin on Hardware please see [Source Reference](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/)  
 ## Programming with Seeeduino
 * Get and install the Arduino IDE:  https://www.arduino.cc/en/main/software
 * Launch the Arduino IDE
