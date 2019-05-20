@@ -20,12 +20,7 @@ Monitoring of water quality and quantity is essential in efficient management of
   * [Experiment :- Find the Temperature of water in the container/Cup](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-temperature-of-water-in-the-containercup)
 * [Quick start with Turbidity Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-turbidity-sensor)
   * [Experiment :- Find the Turbidity of Water](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-turbidity-of-water)
-* [Connecting your sensors with Internet of things and controll your sensors remotely](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#connecting-your-sensors-with-internet-of-things-and-controll-your-sensors-remotely)
-  * [Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#adapt--run-code)
-* [Visualize your Data on Dashboard using Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#visualize-your-data-on-dashboard-using-cayenne-lpp)
-  * [Sign up with My Devices](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#sign-up-with-my-devices)
-  * [Modification of Setting device with LoRa code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#modification-of-setting-device-with-lora-code)
-  * [Test your ultrasonic sensor on Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#test-your-ultrasonic-sensor-on-cayenne-lpp)
+
 
 ## Content of your Kit:
 
