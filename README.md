@@ -127,7 +127,7 @@ Monitoring of water quality and quantity is essential in efficient management of
  
  ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started10.png)
  
- ### Adapt & Run Code 
+### Adapt & Run Code 
  
  * Now Make sure your Seeeduino LoRaWAN is connected with your computer.
  * Copy and paste this [Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Setting%20device%20with%20LoRa) on your Arduino IDE and follow all of the comments and make adjustments to code according to your device configuration on The Things Network platform.
@@ -135,6 +135,20 @@ Monitoring of water quality and quantity is essential in efficient management of
  
  ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started11.PNG)
  
- * Now to collect data, navigate to The Things Network website, select application -> click on the Application that you have created -> navigate to Data option and click -> under Data you would see that you are receiving data from your Seeeduino Microcontroller.
+ * Now to collect data, navigate to The Things Network website, select application 
+ * Click on the Application that you have created -> navigate to Data option and click -> under Data you would see that you are receiving data from your Seeeduino Microcontroller.
+ * Stay on this page for next part.
  
 ## Visualize your Data on Dashboard using Cayenne LPP
+
+* Now we would like to create a User friendly interface, which can receive data and display that data nicely on dashboard.
+* This dashboard will be receiving real time data, as longer your sensor is connected with LoRaWAN internet protocol.
+* On you The Things Network Console, navigate to Integrations -> add integration -> find myDevices and select this option.
+* After selecting myDevices, you need to write process ID for your device, it can be any unique text, see below in image.
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started12.PNG)
+
+* Select Add Integration.
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started13.PNG)
+
