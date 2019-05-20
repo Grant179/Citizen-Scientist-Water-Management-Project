@@ -74,7 +74,5 @@ D. LEDs
 #### Result
 * A few seconds after the upload finishes, you should see the pin 13 (L) LED on the board start to blink (in Yellow). if it does, congratulations! You've gotten Seeeduino up-and-running.
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/5.PNG)
-
 
 
