@@ -27,6 +27,8 @@
  
  ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started10.png)
  [Reference: If you require more information please have a look at this blog](https://blog.squix.org/2017/07/seeeduino-lora-gps-getting-started-with-lorawan-and-ttn.html)
+ 
+ * If you want to get more information about The Things Network, please [Click Me](https://www.thethingsnetwork.org/docs/) and [Me](https://www.thethingsnetwork.org/docs/devices/)
 ### Adapt & Run Code 
  
  * Now Make sure your Seeeduino LoRaWAN is connected with your computer.
@@ -38,7 +40,7 @@
  * Now to collect data, navigate to The Things Network website, select application 
  * Click on the Application that you have created -> navigate to Data option and click -> under Data you would see that you are receiving data from your Seeeduino Microcontroller.
  * Stay on this page for next part.
- 
+ * If you would like to get more information about LoRaWAN network, please see this [Link](https://lora-alliance.org/about-lorawan)
 ## Visualize your Data on Dashboard using Cayenne LPP
 
 * Now we would like to create a User friendly interface, which can receive data and display that data nicely on dashboard.
@@ -73,9 +75,12 @@
 * Second Step : Restart Arduino
 * Third Step : Copy and past this [code]() into your Arduino IDE
 * Fourth Step : Compare and explain difference between both algorithms.
-Hint these lines are extras; (#include <CayenneLPP.h> , CayenneLPP lpp(51); , lpp.reset(); ,  lpp.addTemperature(1, value); , lora.transferPacket(lpp.getBuffer(), lpp.getSize())
+* Hint these [lines](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/extra_lines) are extras in the combined code.
+* If you are having difficulty in understanding Cayenne LPP, please [click Me](http://mydevices.com/cayenne/docs/intro/)
 
 ### Test your ultrasonic sensor on Cayenne LPP
 * In this section we will use our previous knowledge, and add code of ultrasonic sensor to Setting device with LoRa, and run as one algorithm. By doing this, we will be sending ultrasonic sensor data to dashboard.
 * Copy and Paste this [code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Ultrasonic_sensor%2BCayenneLPP) into your Arduino IDE.
 * Connect the Ultrasonic Sensor and navigate to myDevices platform, and visualize your sensor output.
+
+
