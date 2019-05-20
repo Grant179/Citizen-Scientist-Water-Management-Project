@@ -67,8 +67,8 @@ void loop(void)
   digitalWrite(TRIGPIN, LOW); // Send pin low again
   int distance = pulseIn(ECHOPIN, HIGH,26000); // Read in times pulse
   distance= distance/58;
-  Serial.print(distance);
-  Serial.println("   cm");
+  SerialUSB.print(distance);
+  SerialUSB.println("   cm");
 
     lpp.reset();
     lpp.addTemperature(1, 200);
