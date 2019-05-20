@@ -77,7 +77,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 ### Try Different Application for Ultrasonic Sensor
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started5.png)
-* this image is retrieved from https://www.alibaba.com/product-detail/digital-ultrasonic-level-meter-with-reasonable_2004064037.html
+Reference:https://www.alibaba.com/product-detail/digital-ultrasonic-level-meter-with-reasonable_2004064037.html
 ### Applications
 * Water tank level measurement
 * Fuel tank level measurement
