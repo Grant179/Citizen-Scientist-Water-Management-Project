@@ -53,7 +53,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 #### Upload the Program
 * Now, simply click the "Upload" button in the Arduino IDE environment. Wait for few seconds - you should see the RX and TX leds on the board flashing ( it means the code is uploading on the microcontroller). If the upload is successul, the message "Done uploading" will appear in the status bar.
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/2.PNG)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/4.png)
 
 ## Quick start with Waterproof Ultrasonic Sensor
 * Plug ultrasonic sensor to your Seeeduino board by following this tutorial : [Understanding Ultrasonic Sensor](https://wiki.dfrobot.com/Weather_-_proof_Ultrasonic_Sensor_with_Separate_Probe_SKU___SEN0208)
