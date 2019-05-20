@@ -19,7 +19,8 @@ Monitoring of water quality and quantity is essential in efficient management of
  * [Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#adapt--run-code)
 * [Visualize your Data on Dashboard using Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#visualize-your-data-on-dashboard-using-cayenne-lpp)
  * [Sign up with My Devices](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#sign-up-with-my-devices)
- 
+ * [Modification of Setting device with LoRa code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#modification-of-setting-device-with-lora-code)
+ * Test your ultrasonic sensor on Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#test-your-ultrasonic-sensor-on-cayenne-lpp)
 
 ## Content of your Kit:
 
