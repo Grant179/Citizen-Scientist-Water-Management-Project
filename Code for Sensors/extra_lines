@@ -1,0 +1,8 @@
+#include <CayenneLPP.h>
+
+CayenneLPP lpp(51);
+
+lpp.reset();
+
+lpp.addTemperature(1, value);
+lora.transferPacket(lpp.getBuffer(), lpp.getSize())
