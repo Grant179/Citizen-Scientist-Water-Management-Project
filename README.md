@@ -17,6 +17,9 @@ Monitoring of water quality and quantity is essential in efficient management of
 * [Quick start with Turbidity Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-turbidity-sensor)
 * [Connecting your sensors with Internet of things and controll your sensors remotely](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#connecting-your-sensors-with-internet-of-things-and-controll-your-sensors-remotely)
  * [Adapt & Run Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#adapt--run-code)
+* [Visualize your Data on Dashboard using Cayenne LPP](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#visualize-your-data-on-dashboard-using-cayenne-lpp)
+ * [Sign up with My Devices](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#sign-up-with-my-devices)
+ 
 
 ## Content of your Kit:
 
@@ -167,3 +170,15 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started16.png)
 
+### Modification of Setting device with LoRa code
+* In this section we will modify code that we wrote before for connecting sensor with The Things Network Platform, to satisfy requirements for visualization of data on dashboard.
+* First Step : Include Cayenne LPP library in your Arduino IDE, Go to Arduino IDE -> Sketch -> Include Library -> Manage Libraries -> Search for CayenneLPP -> click install
+* Second Step : Restart Arduino
+* Third Step : Copy and past this [code]() into your Arduino IDE
+* Fourth Step : Compare and explain difference between both algorithms.
+Hint these lines are extras; (#include <CayenneLPP.h> , CayenneLPP lpp(51); , lpp.reset(); ,  lpp.addTemperature(1, value); , lora.transferPacket(lpp.getBuffer(), lpp.getSize())
+
+### Test your ultrasonic sensor on Cayenne LPP
+* In this section we will use our previous knowledge, and add code of ultrasonic sensor to Setting device with LoRa, and run as one algorithm. By doing this, we will be sending ultrasonic sensor data to dashboard.
+* Copy and Paste this [code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Ultrasonic_sensor%2BCayenneLPP) into your Arduino IDE.
+* Connect the Ultrasonic Sensor and navigate to myDevices platform, and visualize your sensor output.
