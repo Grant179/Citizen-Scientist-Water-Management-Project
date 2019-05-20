@@ -30,8 +30,8 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/6.PNG)
 
-* 1. Micro USB - Programming and supply power to the board
-* 2. Grove connectors
+1. Micro USB - Programming and supply power to the board
+2. Grove connectors
 3. JST2.0 Lipo battery input (3.7V) and charge status led
 4. DFU Button - Firmware mode button
 5. Reset Button
@@ -43,13 +43,11 @@ A. uFL antenna
 B. RF module - RHF76-052AM
 C. ARM Cortex M0 processor - ATSAMD21G18
 D. LEDs
-
 * RX/TX - blink when data on UART(from/to USB)
 * L - an led connect to D13
 * PWR - power
-
-
 * To get More informatin on Hardware please see [Source Reference](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/)  
+
 ## Programming with Seeeduino
 * Get and install the Arduino IDE:  https://www.arduino.cc/en/main/software
 * Launch the Arduino IDE
