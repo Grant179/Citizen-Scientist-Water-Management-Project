@@ -8,7 +8,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 
 # Table of Content
 * [Content of your Kit](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#content-of-your-kit)
-* [Know Your Hardware]()
+* [Know Your Seeeduino Board](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Basic_Introduction_to_software_and_hardware.md#know-your-hardware)
 * [Programming with Seeeduino](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#programming-with-seeeduino)
 * [Quick Start](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start)
   * [Open the Blink Example](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start)
@@ -26,7 +26,7 @@ Monitoring of water quality and quantity is essential in efficient management of
 * USB Cable
 
 
-## Know Your Hardware
+## Know Your Seeeduino Board
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/6.PNG)
 
@@ -69,7 +69,7 @@ D. LEDs
 #### Upload the Program
 * Now, simply click the "Upload" button in the Arduino IDE environment. Wait for few seconds - you should see the RX and TX leds on the board flashing ( it means the code is uploading on the microcontroller). If the upload is successul, the message "Done uploading" will appear in the status bar.
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/4.png)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/7.PNG)
 
 #### Result
 * A few seconds after the upload finishes, you should see the pin 13 (L) LED on the board start to blink (in Yellow). if it does, congratulations! You've gotten Seeeduino up-and-running.
