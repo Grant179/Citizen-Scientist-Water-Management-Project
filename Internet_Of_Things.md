@@ -61,11 +61,11 @@
 
 * Log-in and click on LoRa
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started15.png)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/lora.PNG)
 
 * Select The Things Network at the bottom of the left menu bar, click on Cayenne LPP and fill in your DevEUI of your device, which you can find in the [Console](https://console.thethingsnetwork.org/applications)
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started16.png)
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/cayenneLPP.PNG)
 
 ### Modification of Setting device with LoRa code
 * In this section we will modify code that we wrote before for connecting sensor with The Things Network Platform, to satisfy requirements for visualization of data on dashboard.
