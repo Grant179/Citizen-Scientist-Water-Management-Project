@@ -33,6 +33,7 @@
 ### Try Different Application for Ultrasonic Sensor
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/Getting_Started5.png)
+
 [Reference Source of an Image](https://www.alibaba.com/product-detail/digital-ultrasonic-level-meter-with-reasonable_2004064037.html)
 ### Applications
 * Water tank level measurement
@@ -64,8 +65,8 @@
 ### Experiment :- Find the Turbidity of Water
 * Turbidity is a measure of the degree to which the water loses its transparency due to the presence of suspended particulates. The more total suspended solids in the water, the murkier it seems and the higher the turbidiy.
 * Take 2 * Cups, fill one cup with clean water and the other cup with dirty water (to make water dity, you can choose to mix soil in the water).
-* Read Documentation of the sensor, and dipp your sensor in the clean water, Record stable reading in your notebook.
-* Now dipp the sensor in dirty water, Record stable reading in your notebook.
+* Read Documentation of the sensor, and sink your sensor in the clean water, Record stable reading in your notebook.
+* Now sink the sensor in dirty water, Record stable reading in your notebook.
 * Compare both recordings and explain those readings to your teacher.
 
 ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/3.jpg)
