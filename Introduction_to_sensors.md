@@ -49,6 +49,8 @@
 
 ## Quick start with Waterproof Digital Temperature Sensor
 * Plug Digital Temperature Sensor to your Seeeduino board following this tutorial : [Understanding Temperature Sensor](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
+* Install the OneWire library to your arduino IDE: Sketch -> Include Library -> Manage Libraries -> search for MAX31850 OneWire library -> install the latest version -> close the window.
+* Restart the Arduino IDE.
 * Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Measuring%20Temperature%20of%20Water) and paste into your Arduino IDE and [upload](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#upload-the-program)
 
 ### Experiment :- Find the Temperature of water in the container/Cup
