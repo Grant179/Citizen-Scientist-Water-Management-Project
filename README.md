@@ -7,7 +7,7 @@ The Aim of this exercise is to get familiarize with the water control and manage
 
 Monitoring of water quality and quantity is essential in efficient management of the surface and ground water resources to maximize reliability for users in an efficient, effective, safe and financially responsible manner. To monitor these resources, one requires large amount of information and data. The monitoring involves a combination of automatic digital sensors and logging devices as well as manual sampling and analysis.
 
-This Tutorial consists of 3 following steps
+This Tutorial consists of three stages of learning as mentioned below
 1. Basic introduction to software and hardware
 2. Introduction to sensors
 3. Internet of things
