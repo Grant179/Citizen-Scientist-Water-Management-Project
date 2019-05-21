@@ -1,4 +1,4 @@
-# Citizen-Scientist-Water-Management-Project
+# Citizen Scientist Water Management Project
 
 Measuring the Quality and Quantity of water and use LoRaWAN protocol to see real time data and make predictions on flood warning.
 
