@@ -77,7 +77,7 @@ As far as the reach of the Internet of Things, there are more than 12 billion de
 * In this section we will modify code that we wrote before for connecting sensor with The Things Network Platform, to satisfy requirements for visualization of data on dashboard.
 * First Step : Include Cayenne LPP library in your Arduino IDE, Go to Arduino IDE -> Sketch -> Include Library -> Manage Libraries -> Search for CayenneLPP -> click install
 * Second Step : Restart Arduino
-* Third Step : Copy and past this [code]() into your Arduino IDE
+* Third Step : Copy and past this [code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/combined_code) into your Arduino IDE
 * Fourth Step : Compare and explain difference between both algorithms.
 * Hint these [lines](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/extra_lines) are extras in the combined code.
 * If you are having difficulty in understanding Cayenne LPP, please [click Me](http://mydevices.com/cayenne/docs/intro/)
