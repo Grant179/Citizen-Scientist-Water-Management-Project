@@ -71,7 +71,7 @@ void loop(void)
   SerialUSB.println("   cm");
 
     lpp.reset();
-    lpp.addTemperature(1, 200);
+    lpp.addTemperature(1, distance);
     result = lora.transferPacket(lpp.getBuffer(), lpp.getSize());
     //result = lora.transferPacket(data, 10, 10);
     
