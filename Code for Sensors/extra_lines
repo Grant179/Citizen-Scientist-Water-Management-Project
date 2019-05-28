@@ -4,5 +4,5 @@ CayenneLPP lpp(51);
 
 lpp.reset();
 
-lpp.addTemperature(1, value);
+lpp.addTemperature(1, 200);
 lora.transferPacket(lpp.getBuffer(), lpp.getSize())
