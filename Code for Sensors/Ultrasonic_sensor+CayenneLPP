@@ -13,7 +13,6 @@ void setup(void)
 {
   pinMode(ECHOPIN, INPUT);
   pinMode(TRIGPIN, OUTPUT);
-  digitalWrite(ECHOPIN, HIGH);
     SerialUSB.begin(115200);
     while(!SerialUSB);
     
