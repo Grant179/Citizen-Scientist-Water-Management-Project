@@ -62,6 +62,7 @@
 ## Quick start with Turbidity Sensor
 * Plug ultrasonic sensor to your Seeeduino board by following this tutorial : [Understanding Turidity Sensor](https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189)
 * Copy the [Sample Code](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Code%20for%20Sensors/Measuring%20Turbidity%20in%20Water) and paste into your Arduino IDE and upload
+* Note Important -> Connect Turbidity sensor with 3.3V instead of 5V on your Seeeduino Board, to obtain accurate results.
 
 
 ### Experiment :- Find the Turbidity of Water
