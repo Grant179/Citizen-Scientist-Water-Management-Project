@@ -2,15 +2,15 @@
 # Table of Content
 
 * [Quick start with Waterproof Ultrasonic Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/README.md#quick-start-with-waterproof-ultrasonic-sensor)
-  * [Working principle of Ultrasonic Sensor]()
+  * [Working principle of Ultrasonic Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Introduction_to_sensors.md#working-principle-of-ultrasonic-sensor)
   * [Experiment :- Find the level of water in the container](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-level-of-water-in-the-container)
   * [Try Different Application for Ultrasonic Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#try-different-application-for-ultrasonic-sensor)
   * [Applications](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#applications)
 * [Quick start with Waterproof Digital Temperature Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-waterproof-digital-temperature-sensor)
-  * [Working principle of Waterproof Digital Temperature Sensor]()
+  * [Working principle of Waterproof Digital Temperature Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Introduction_to_sensors.md#working-principle-of-waterproof-digital-temperature-sensor)
   * [Experiment :- Find the Temperature of water in the container/Cup](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-temperature-of-water-in-the-containercup)
 * [Quick start with Turbidity Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#quick-start-with-turbidity-sensor)
-  * [Working principle of Waterproof Digital Temperature Sensor]()
+  * [Working principle of Waterproof Digital Temperature Sensor](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/Introduction_to_sensors.md#working-principle-of-waterproof-digital-temperature-sensor-1)
   * [Experiment :- Find the Turbidity of Water](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project#experiment---find-the-turbidity-of-water)
   
 
