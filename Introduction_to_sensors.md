@@ -47,6 +47,12 @@
 * Oil tanker, small fuel tank level measurement
 * Other distance and level application
 
+### Working principle of Ultrasonic Sensor
+
+The sensor transmits a pulse at time 0, that pulse gets reflected by an object. The sensor receives the signal and converts it to an electric signal. The next pulse can be transmitted when there is no echo. The time period is called cycle period. If a 10 microseconds width trigger pulse is sent to the signal pin, the ultrasonic module will output 8 * 40KHz ultrasonic signals and detect the echo back. The width of received echo is proportional to distance between object and ultrasnoic sensor. The distance can be calculated by using following formula
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/formula.PNG)  
+
 ## Quick start with Waterproof Digital Temperature Sensor
 * Plug Digital Temperature Sensor to your Seeeduino board following this tutorial : [Understanding Temperature Sensor](https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_)
 * Install the OneWire library to your arduino IDE: Sketch -> Include Library -> Manage Libraries -> search for MAX31850 OneWire library -> install the latest version -> close the window.
