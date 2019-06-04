@@ -1,5 +1,8 @@
 # Citizen Scientist Water Management Project
 
+
+![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/front_photo.jpg)
+
 Measuring the Quality and Quantity of water and use LoRaWAN protocol to see real time data and make predictions on flood warning.
 
 The Aim of this exercise is to get familiarize with the water control and management sensors and how anyone can receive and visualize the data in real time.
