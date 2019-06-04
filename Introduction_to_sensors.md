@@ -28,7 +28,7 @@
 
 * The sensor transmits a pulse at time 0, that pulse gets reflected by an object. The sensor receives the signal and converts it to an electric signal. The next pulse can be transmitted when there is no echo. The time period is called cycle period. If a 10 microseconds width trigger pulse is sent to the signal pin, the ultrasonic module will output 8 * 40KHz ultrasonic signals and detect the echo back. The width of received echo is proportional to distance between object and ultrasnoic sensor. The distance can be calculated by using following formula:
 
-![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/formula.PNG)  
+             ![](https://github.com/Bilal-Arshad/Citizen-Scientist-Water-Management-Project/blob/master/img/formula.PNG)  
 
 
 ### Experiment :- Find the level of water in the container
